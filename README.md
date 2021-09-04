@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KoshackOfficial
+- 👀 I’m interested in music, c# and web dev
+- 🌱 I’m currently learning WPF
